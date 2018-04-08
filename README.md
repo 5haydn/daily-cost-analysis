@@ -44,3 +44,12 @@ util.js 封装了把 xlsx 转化成 json对象的方法，这个方法来自于[
 缘起是在 一起学JS [网站](http://xugaoyang.com)上看到  [yangfan1992]() 推荐 4 months [Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
 
 感谢这位同学 ！！！
+
+### 五、感受
+
+当然，整个项目，就是个play demo. But Trust me，还是相当high。
+
+想起来当年我学了c语言，于是就用命令行的文本输出了一些交互对话，表达爱意。可是当时的女朋友说，就这个呀…….  于是，就没有以后了。  @陈扬帆 
+
+我还现场学习了，如何抽函数到另外的文件里，当我用到 module.exports = {read, deep} 成功导出两个函数的时候，我简直觉得高级死了。
+
