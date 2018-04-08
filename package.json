@@ -1,0 +1,8 @@
+{
+    "name": "excel-analsis",
+    "version": "0.0.1",
+    "dependencies": {
+        "ramda": "^0.25.0",
+        "xlsx": "^0.12.8"
+    }
+}
