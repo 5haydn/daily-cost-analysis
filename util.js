@@ -5,6 +5,7 @@ var deep = function deepset(obj, path, value) {
     return deepset(obj[parts[0]], parts.slice(1).join("."), value);
 }
 
+// 把xlsx 库读出来的对象，转化为 js 对象的数组，便于下一步分析。
 var read = function workbook_to_object(wb) {
     var out = {};
 

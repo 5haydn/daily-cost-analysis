@@ -7,10 +7,8 @@ var workbook = XLSX.readFile('target3.xlsx');
 // console.log(workbook);
 
 
-// 文件转化为 js 对象
+// 文件转化为 js 对象的数组
 var obj = util.read(workbook);
-
-
 let items = obj['工作表1'];
 console.log(items.length);
 
@@ -34,11 +32,8 @@ calc('工位');
 calc('滴滴');
 calc('汽车');
 calc('社交');
-
 calc('星巴克');
 calc('饭');
-
-
 calc('烟');
 calc('书');
 calc('生活');
