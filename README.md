@@ -1,8 +1,12 @@
+//TODO: 这篇文档格式，请参考：https://socket.io/get-started/chat/ 
+
 ### 一、项目说明
 
 今天用`JS`的 `xlsx` 库，读取4月份支出记录，进行分类统计，分类统计使用了 `Ramda` .
 
 #### 使用方法：
+
+Make sure [Node.JS is installed](https://nodejs.org/). 确保 nodejs 已经安装了.
 
 1、clone 项目到本地，进入项目文件夹
 
